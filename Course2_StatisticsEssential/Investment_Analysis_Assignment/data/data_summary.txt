@@ -1,3 +1,4 @@
+Datasets:
 1. Company details
 
 companies: A table with basic data of companies
@@ -30,7 +31,7 @@ rounds2: The most important parameters are explained below:
 3. Sector Classification: 
 mapping.csv: This file maps the numerous category names in the companies table (such 3D printing, aerospace, agriculture, etc.) to eight broad sector names. The purpose is to simplify the analysis into eight sector buckets, rather than trying to analyse hundreds of them.
 
-4.  Excel File (mandatory submission): Download the Excel spreadsheet from below. It contains all the tables you need to fill in.
+4.  Excel File (mandatory submission): Download the Excel spreadsheet. It contains all the tables you need to fill in.
 
-5. Presentation template (mandatory submission): Download the sample PPT from below. The structure is a suggestion; make sure not to exceed 10 slides. Once your presentation is ready, convert the document in PDF format for submission.
+5. Presentation template (mandatory submission): Download the sample PPT. The structure is a suggestion; make sure not to exceed 10 slides. Once your presentation is ready, convert the document in PDF format for submission.
 
