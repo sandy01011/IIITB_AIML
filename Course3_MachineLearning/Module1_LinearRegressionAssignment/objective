@@ -1,0 +1,17 @@
+
+
+
+Question-1:
+
+List down at least three main assumptions of linear regression and explain them in your own words. To explain an assumption, take an example or a specific use case to show why the assumption makes sense.
+
+Question-2:
+
+Explain the gradient descent algorithm in the following two parts:
+
+Illustrate at least two iterations of the algorithm using the univariate function 
+J(x) =x^2+x+1 Assume a learning rate  η=0.1 and an initial guess x0=1 and demonstrate that the iterations converge towards the minima. Also, report the minima (which you can compute using the closed form solution).
+
+Illustrate at least two iterations of the algorithm using the bivariate function of two independent variables 
+J(x,y)=x^2+2xy+y^2. Assume a learning rate η=0.1 and an initial guess (x0,y0)=(1,1). Report the minima and show that the solution converges towards it.
+
